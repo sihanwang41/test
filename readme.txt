@@ -1,2 +1,2 @@
 this is a test!
-This my branch
+Creating a new branch is quick & simple.
